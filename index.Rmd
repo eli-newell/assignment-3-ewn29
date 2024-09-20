@@ -1,0 +1,17 @@
+---
+title: "Home"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Welcome to the website of Eli Newell and Kalem Hanlon.
+
+### Please visit our Github accounts:
+Eli: https://github.com/eli-newell  
+
+Kalem: https://github.com/kalemhanlon
+
+![We are both graduate students at Cornell University!](https://upload.wikimedia.org/wikipedia/commons/b/ba/CornellAgQuad.jpg)
