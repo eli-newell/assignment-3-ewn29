@@ -7,3 +7,9 @@ navbar:
       href: eli.html
     - text: "Kalem"
       href: kalem.html 
+output:
+  html_document:
+    theme: united
+    highlight: textmate
+    toc: true 
+    toc_float: true 
