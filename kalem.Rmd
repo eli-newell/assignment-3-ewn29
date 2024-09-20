@@ -1,5 +1,5 @@
 ---
-title: "kalem"
+title: "Kalem"
 output: html_document
 ---
 
@@ -7,12 +7,14 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-- My hobbies include:
+## Welcome to Kalem's page!
+
+- Kalem's hobbies include:
   - triathlon
   - trail running
   - climbing
-- I'm passionate about nutrition
-- I am originally from Canada 
+- He is passionate about nutrition
+- He is originally from Canada 
 
 
-![And I love the mountains](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeJBAJp2fDuukWSKZnlwm9Wt1UhV53W1tQhQ&s)
+![And he loves the mountains](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeJBAJp2fDuukWSKZnlwm9Wt1UhV53W1tQhQ&s)
